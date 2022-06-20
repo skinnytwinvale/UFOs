@@ -15,3 +15,8 @@ Dana’s webpage and dynamic table are working as intended, but she’d like to 
 ## Results
 - How someone might use the new webpage is by first the user enters the desired date, the change is detected and the table is updated accordingly. Then you would have to update the desired city, country, state, and shape. The parameters would have to be entered simultaneously and the table will be updated accordingly.
 ![name-of-you-image](https://github.com/skinnytwinvale/UFOs/blob/913ef82d5aed9f0d9315659b0216519d017ea532/static/images/Screen%20Shot%202022-06-19%20at%209.40.27%20PM.png)
+
+## Summary
+- One of the drawbacks of this design is the difficulty of the parameter, the user won't know which parameter to use. One example is if the user wanted to use the city he would have to go through the table to find out which one is desired for the analysis.
+- The best way to include the parameter would be to include a drop down that shows you the possible options to choose from
+- Some minor adjustment would also to include button that clears the tables
