@@ -13,3 +13,4 @@ Dana’s webpage and dynamic table are working as intended, but she’d like to 
 2. ***Deliverable 2***: A written report on the UFO analysis 
 
 ## Results
+- How someone might use the new webpage is by first the user enters the desired date, the change is detected and the table is updated accordingly. Then you would have to update the desired city, country, state, and shape. The parameters would have to be entered simultaneously and the table will be updated accordingly.
